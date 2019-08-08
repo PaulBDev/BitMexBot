@@ -1,0 +1,19 @@
+{
+  "name": "nl-bitmexs",
+  "version": "0.1.0",
+  "description": "My own bitmex library",
+  "main": "index.js",
+  "dependencies": {
+    "assign-obj-params": "^1.0.0",
+    "bitmex-realtime-api": "^0.4.0",
+    "fuckingundefinedemptynull": "^1.0.0",
+    "nl-bitmex": "^0.1.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
